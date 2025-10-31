@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #007bff;
+}
+
+p {
+  color: #333;
+}
